@@ -8,6 +8,7 @@
     \ 'coc-pairs',
     \ 'coc-tsserver',
     \ 'coc-floaterm',
+    \ 'coc-ccls',
     \ 'coc-html',
     \ 'coc-css',
     \ 'coc-emoji',
