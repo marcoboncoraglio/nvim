@@ -124,13 +124,13 @@ let g:which_key_map.s = {
       \ 'P' : [':Tags'                  , 'project tags'],
       \ 's' : [':CocList snippets'      , 'snippets'],
       \ 'S' : [':Colors'                , 'color schemes'],
-      \ 's' : [':Snippets'              , 'snippets'],
       \ 't' : [':Rg'                    , 'text Rg'],
       \ 'T' : [':BTags'                 , 'buffer tags'],
       \ 'w' : [':Windows'               , 'search windows'],
       \ 'y' : [':Filetypes'             , 'file types'],
       \ 'z' : [':FZF'                   , 'FZF'],
       \ }
+      " \ 's' : [':Snippets'              , 'snippets'],
 
 let g:which_key_map.S = {
       \ 'name' : '+Session' ,
