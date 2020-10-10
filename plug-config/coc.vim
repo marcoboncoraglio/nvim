@@ -2,8 +2,6 @@
     \ 'coc-snippets',
     \ 'coc-actions',
     \ 'coc-sh',
-    \ 'coc-java-debug',
-    \ 'coc-java',
     \ 'coc-lists',
     \ 'coc-emmet',
     \ 'coc-tasks',

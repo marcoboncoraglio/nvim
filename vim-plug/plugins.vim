@@ -74,13 +74,9 @@ call plug#begin('~/.config/nvim/autoload/plugged')
     Plug 'liuchengxu/vista.vim'
     " See what keys do like in emacs
     Plug 'liuchengxu/vim-which-key'
-    " Zen mode
-    Plug 'junegunn/goyo.vim'
     " Snippets
     Plug 'honza/vim-snippets'
     Plug 'mattn/emmet-vim'
-    " Interactive code
-    Plug 'metakirby5/codi.vim'
     " Debugging
     " Plug 'puremourning/vimspector'
     " Better tabline

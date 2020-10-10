@@ -35,10 +35,7 @@ else
   source $HOME/.config/nvim/plug-config/better-whitespace.vim
   source $HOME/.config/nvim/plug-config/fzf.vim
   source $HOME/.config/nvim/plug-config/sneak.vim
-  source $HOME/.config/nvim/plug-config/codi.vim
-  source $HOME/.config/nvim/plug-config/vim-wiki.vim
   source $HOME/.config/nvim/plug-config/coc.vim
-  source $HOME/.config/nvim/plug-config/goyo.vim
   source $HOME/.config/nvim/plug-config/vim-rooter.vim
   source $HOME/.config/nvim/plug-config/start-screen.vim
   source $HOME/.config/nvim/plug-config/gitgutter.vim
